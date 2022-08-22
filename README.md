@@ -1,6 +1,6 @@
 # Calculator App
 
-Calculator App
+Flutter Calculator App (2.0.6)
 
 ## Features
 
@@ -8,6 +8,7 @@ Calculator App
 
 ### Theme Colors:
   - Black
+  - Grey
   - Cyan
 
 ## Demonstration
